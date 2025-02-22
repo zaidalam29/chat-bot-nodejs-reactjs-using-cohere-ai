@@ -38,7 +38,7 @@ Welcome to **Chat-Bot**! This is an interactive chatbot built using **React.js**
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/chat-bot-nodejs-reactjs-using-cohere-ai.git
+git clone https://github.com/zaidalam29/chat-bot-nodejs-reactjs-using-cohere-ai.git
 cd chat-bot-nodejs-reactjs-using-cohere-ai
 ```
 
@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📢 **Contact**
 
 - If you have any questions, feel free to open an issue on GitHub or contact me directly.
-- [GitHub Profile](https://github.com/your-username)
+- [GitHub Profile](https://github.com/zaidalam29)
 
 ---
 
